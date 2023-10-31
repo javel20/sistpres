@@ -11,7 +11,7 @@
 	<!-- Font Awesome V5.9.0 -->
 	<link rel="stylesheet" href="<?php echo SERVERURL; ?>vistas/css/all.css">
 
-	<!-- Sweet Alerts V8.13.0 CSS file -->
+	<!-- Sweet Alerts V11.0 CSS file -->
 	<link rel="stylesheet" href="<?php echo SERVERURL; ?>vistas/css/sweetalert2.min.css">
 
 	<!-- Sweet Alert V8.13.0 JS file-->

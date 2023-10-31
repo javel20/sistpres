@@ -15,9 +15,9 @@
 
 		$vistas = $IV->obtener_vistas_controlador();
 
-		if("$vistas=='login' || $vistas=='404'"){
+		if($vistas=='login' || $vistas=='404'){
 			require_once(__DIR__ ."/contenidos/" .$vistas."-view.php");
-			echo (SERVERURLL);
+			// echo (SERVERURLL);
 		}else{
 
 		

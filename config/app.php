@@ -1,8 +1,8 @@
 <?php
 
-    // define('SERVERURL','http://localhost/sistpres');
+    define('SERVERURL', 'http://localhost/sistpres/');
 
-    const SERVERURL = 'http://localhost/sistpres/';
+    // const SERVERURL = 'http://localhost/sistpres/';
     const SERVERURLL = 'C:/xampp/htdocs/sistpres/';
 
     define('COMPANY','sysjavel');
