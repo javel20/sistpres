@@ -19,6 +19,8 @@
             $sql->bindParam(":Estado",$datos['Estado']);
             $sql->bindParam(":Privilegio",$datos['Privilegio']);
             $sql->execute();
+
+            return $sql;
         }
     }
 
