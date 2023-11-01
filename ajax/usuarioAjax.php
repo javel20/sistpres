@@ -5,7 +5,7 @@
 
     if(false){
         /*----isntanciar al controlador---*/
-        require_once"../controladores/usuarioControlador.php";
+        require_once "../controladores/usuarioControlador.php";
         $ins_usuario = new usuarioControlador();
     }else{
         session_start(['name'=>'SPM']);
